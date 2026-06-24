@@ -66,7 +66,7 @@ Buku ini bersifat **terbuka dan bebas**. Kontribusi sangat disambut:
 
 ## 👤 Inisiator & Editor
 
-**Wahid Setio Darmadi**
+**Wahid Setio Darmadi**\
 Praktisi AI — Pengguna Generative AI & Pengembang Pipeline Model AI\
 Jakarta, Indonesia · 1447 H / 2026 M
 

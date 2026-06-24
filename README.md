@@ -67,8 +67,12 @@ Buku ini bersifat **terbuka dan bebas**. Kontribusi sangat disambut:
 ## 👤 Inisiator & Editor
 
 **Wahid Setio Darmadi**
-Praktisi AI — Pengguna Generative AI & Pengembang Pipeline Model AI
+Praktisi AI — Pengguna Generative AI & Pengembang Pipeline Model AI\
 Jakarta, Indonesia · 1447 H / 2026 M
+
+- GitHub: [@whddarmadi](https://github.com/whddarmadi)
+- LinkedIn: [linkedin.com/in/whddarmadi](https://linkedin.com/in/whddarmadi)
+- Instagram: [@wahwahcreative](https://www.instagram.com/wahwahcreative/)
 
 ---
 

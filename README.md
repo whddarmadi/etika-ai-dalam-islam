@@ -5,6 +5,16 @@
 
 ---
 
+<div align="center">
+
+![Etika AI dalam Islam — Video Promo](promotional_video.gif)
+
+**✨ Buku saku gratis untuk setiap Muslim yang hidup di era kecerdasan buatan ✨**
+
+</div>
+
+---
+
 ## 📖 Tentang Buku Ini
 
 **Etika AI dalam Islam** adalah buku saku gratis dan terbuka yang membahas bagaimana seorang Muslim seharusnya memandang, menggunakan, dan membangun teknologi kecerdasan buatan (AI) berdasarkan tuntunan Al-Quran dan As-Sunnah.
@@ -33,8 +43,9 @@ Tidak perlu instalasi apa pun. Cukup buka di browser.
 
 ```
 /
-└── index.html    # Seluruh buku dalam satu file HTML
-└── README.md     # Halaman ini
+└── index.html              # Seluruh buku dalam satu file HTML
+└── README.md               # Halaman ini
+└── promotional_video.gif   # Video promo
 ```
 
 Sesederhana itu. Tidak ada framework, tidak ada dependencies, tidak ada build process.

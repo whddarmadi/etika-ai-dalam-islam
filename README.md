@@ -1,6 +1,8 @@
 # Etika AI dalam Islam
 ### Panduan Ringkas Fiqh dan Etika Teknologi Kecerdasan Buatan
 
+> 🌐 [Read in English](README-en.md)
+
 > *"Jika ada kebenaran di dalamnya, itu datang dari Allah. Namun jika ada kekeliruan, itu murni dari keterbatasan kami, dan kami memohon ampun kepada Allah."*
 
 ---
